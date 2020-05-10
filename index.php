@@ -130,7 +130,7 @@
 </section>
 
 
-    <?php
+ <?php
     include('includes/footer.php');
 ?>
 <script src="js/jquery.js"></script>

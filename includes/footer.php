@@ -1,8 +1,8 @@
 <footer>
-    <div class="container-fluid">
-        <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-bottom">
-            <h2 class="text-light text-center mt-4 pb-3">Copyright &copy; <?php echo date('Y')?>,
-             Alright Reserverd OLUOKUN KABIRUA DESINA </h2>
+    <div class="mt-5">
+        <nav class="navba navbar-expand-sm bg-dark navbar-dark fixed-bottom">
+            <p class="text-light text-center mt-4 pb-3">Copyright &copy; <?php echo date('Y')?>,
+             Alright Reserverd OLUOKUN KABIRUA DESINA </p>
 
           </nav> 
     </div>

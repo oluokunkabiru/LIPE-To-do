@@ -175,6 +175,9 @@
 
     })
 </script>
+<?php
+    include('includes/footer.php');
+?>
     <?php
 }else{
     header("location:index.php");
